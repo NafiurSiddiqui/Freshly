@@ -1,2 +1,2 @@
 # Freshly
-A HTML email Template
+A HTML promotional email Template
